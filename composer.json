@@ -1,0 +1,17 @@
+{
+    "name": "dspurl/taobaosdk",
+    "description": "淘宝客API 2019年10月",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "dspurl",
+            "email": "38335482@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Dspurl\\Taobaosdk\\": "src/"
+        }
+    }
+}

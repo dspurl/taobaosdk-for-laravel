@@ -1,6 +1,6 @@
 {
     "name": "dspurl/taobaosdk",
-    "description": "淘宝客API 2019年10月",
+    "description": "laravel5.8封装taobao-sdk-PHP的简单实现，功能不多，只满足2019年10月的淘宝客API",
     "license": "MIT",
     "authors": [
         {

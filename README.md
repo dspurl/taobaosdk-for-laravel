@@ -22,14 +22,14 @@ $ composer require dspurl/taobaosdk
 comfig/app.php修改providers和aliases
 ```php
 'providers' => [
-	***
+	...
 	Dspurl\Taobaosdk\TaobaosdkServiceProvider::class,
-	***
+	...
 ]
 'aliases' => [
-	***
+	...
 	'Taobaosdk' => Dspurl\Taobaosdk\Facades\Taobaosdk::class
-	***
+	...
 ]
 ```
 
